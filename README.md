@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/m-tayaib/m-tayaib/main/background_banner.png" alt="GitHub Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/ni9avenger/ni9avenger/main/background_banner.png" alt="GitHub Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Mohammad Wateen Afzal 👋</h1>
 <h3 align="center">
-  <b>Lead Full Stack Developer & Cloud Integration Architect | 7+ Years Experience</b>
+  <b>Lead Full Stack Developer & Cloud Integration Architect | 8+ Years Experience</b>
 </h3>
 
 <p align="center">
@@ -143,6 +143,4 @@ Want to collaborate, ask questions, or discuss architecture?
 ---
 
 ## 🎉 **Thank You for Visiting!**
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" alt="Thank You GIF" width="200" />
-</p>
+
