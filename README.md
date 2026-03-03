@@ -20,7 +20,7 @@
 
 ## 🚀 **About Me**
 
-Results-driven **Senior Software Engineer & Cloud Integration Architect** with **7+ years of experience** designing, developing, and integrating scalable full-stack and cloud-based systems. I specialize in the **MERN stack**, **Node.js microservices**, and **multi-cloud architecture** across AWS, Azure, IBM Cloud, and GCP. I have a proven track record in building automation pipelines, developing custom integrations, and leading cross-functional teams.
+Results-driven **Senior Software Engineer & Cloud Integration Architect** with **8+ years of experience** designing, developing, and integrating scalable full-stack and cloud-based systems. I specialize in the **MERN stack**, **Node.js microservices**, and **multi-cloud architecture** across AWS, Azure, IBM Cloud, and GCP. I have a proven track record in building automation pipelines, developing custom integrations, and leading cross-functional teams.
 
 ---
 
@@ -143,4 +143,5 @@ Want to collaborate, ask questions, or discuss architecture?
 ---
 
 ## 🎉 **Thank You for Visiting!**
+
 
